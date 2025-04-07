@@ -10,7 +10,7 @@ public class Formulario_Registro_Vehiculo extends javax.swing.JPanel {
 }
    
     @SuppressWarnings("unchecked")
-                       
+     Generated code               
    
 private void BotoRegistroMouseClicked(java.awt.event.MouseEvent evt) {                                          
     System.out.println("Se hizo click en el boton");
