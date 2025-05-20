@@ -1,6 +1,5 @@
 package Modelo;
 
-
 public class usuario {
     
     private String Nombre_usuario;
